@@ -1,2 +1,3 @@
 # git_course
-learn git in this repo
+## learn git in this repo
+### project notes
